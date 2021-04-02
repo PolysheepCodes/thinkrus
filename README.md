@@ -6,10 +6,14 @@ A little WTF software for Windows 96!
 2. Drag and drop it into the `C:/system/boot/apps` folder.
 3. Enjoy!
 
-## You have a question?
+## FAQ
 ### **My Windows 96 don't want to restart! How I can make he working?**
 
 Clean the IndexedDB. (really? you don't say? this is a **MALWARE**!!)
 
+### **How I can remove this software?**
+
+Just remove the `thinkrus.js` file!
+
 ## License
-This program is licensed as [MIT License](LICENSE).
+This repository is licensed as [MIT License](LICENSE).
