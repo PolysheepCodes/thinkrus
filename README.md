@@ -14,7 +14,7 @@ Clean the IndexedDB. (really? you don't say? this is a **MALWARE**!!)
 
 ### **How I can remove this software?**
 
-Just remove the `thinkrus.js` file!
+Just remove the `thinkrus.js` file and reboot!
 
 ## License
 This repository is licensed as [MIT License](LICENSE).
